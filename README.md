@@ -153,7 +153,7 @@ This project successfully demonstrates the implementation of **core and advanced
 
 ## 👨‍💻 Author
 
-**Your Name - RAUNAK RAJ**
+**Your Name - Satyam shukla**
 Java Developer | Student
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -281,9 +281,8 @@ By writing these codes, I got a clear idea of how OOP concepts work in real prog
 
 ## 👨‍💻 Author
 
-**Your Name - RAUNAK RAJ**
+**Your Name - SATYAM SHUKLA**
 Java Developer | Student
-
 ## ⭐ Note
 
 This project is developed as part of **Java Training Assessment** to demonstrate practical understanding of programming concepts.
